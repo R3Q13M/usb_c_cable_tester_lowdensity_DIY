@@ -1,3 +1,5 @@
+# Currently a WIP!
+
 # USB Cable Tester
 
 Simple board to test various USB cables! (Note the USB standard helps to identify these [USB-C](https://www.usb.org/usb-type-cr-cable-and-connector-specification), cables that are compliant with the standard will have selected pins according to [cable and connector specification release](https://www.usb.org/sites/default/files/USB%20Type-C%202.2%20Release%20202210%20%281%29.zip)). 
